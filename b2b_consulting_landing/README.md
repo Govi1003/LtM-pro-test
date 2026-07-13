@@ -24,3 +24,5 @@ const CONTACT_EMAIL = 'yhjeon1003@gmail.com';
 ```
 
 정적 페이지이므로 현재 상담 폼은 메일 앱을 여는 방식입니다. 실제 운영에서는 Formspree, Google Forms, Make/Zapier, 자체 백엔드 등으로 연결하면 됩니다.
+# LtM-pro
+# LtM-pro
